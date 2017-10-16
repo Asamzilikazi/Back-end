@@ -1,0 +1,3 @@
+<beans>
+    <bean name="transferService" class="za.ac.mzilikazi.Services.Impl.CouponServiceImpl"/>
+</beans>
